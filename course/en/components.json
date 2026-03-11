@@ -16,6 +16,29 @@
         }
     },
     {
+        "_id": "c-101",
+        "_parentId": "b-100",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "SecureLink",
+        "displayTitle": "SecureLink",
+        "body":"SecureLink connection times to the Wison intranet:<br><br>
+        <b>Monday to Saturday:</b><br>
+        8:00 AM to 8:00 PM (Congo (Brazzaville) time)<br>
+        3:00 PM to 3:00 AM (Beijing time)<br><br>
+        <b>Sunday:</b><br>
+        8:00 AM to 6:00 PM (Congo (Brazzaville) time)<br>
+        3:00 PM to 1:00 AM (Beijing time)<br><br>
+        Note: The web version of the corporate email is not subject to the above restrictions.",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
         "_id": "c-105",
         "_parentId": "b-100",
         "_type": "component",

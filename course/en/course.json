@@ -6,7 +6,7 @@
     "title": "WNE IT",
     "displayTitle": "WNE Information Technology",
     "description": "WNE Information Technology",
-    "body": "Welcome to WNE Information Technology.",
+    "body": "Welcome to WNE Information Technology",
     "instruction": "",
     "_buttons": {
         "_submit": {
@@ -35,10 +35,10 @@
     },
     "_globals": {
         "_learnerInfo": {
-            "id": "student.name@example.org",
-            "name": "Name, Student",
-            "firstname": "Student",
-            "lastname": "Name"
+            "id": "liminghai@wison.com",
+            "name": "Li Minghai",
+            "firstname": "Minghai",
+            "lastname": "Li"
         },
         "_accessibility": {
             "skipNavigationText": "Skip navigation",
@@ -306,15 +306,15 @@
             },
             {
                 "_type": "link",
-                "title": "Adapt Project Site",
-                "description": "View the project's web site by clicking here.",
-                "_link": "https://www.adaptlearning.org/"
+                "title": "Enterprise Webmail",
+                "description": "View the Enterprise Webmail by clicking here.",
+                "_link": "https://webmail.wison.com/"
             },
             {
                 "_type": "link",
-                "title": "Framework chat",
-                "description": "Join the framework chat room by clicking here.",
-                "_link": "https://gitter.im/adaptlearning/adapt_framework"
+                "title": "WNE Cloud Drive",
+                "description": "View the WNE Cloud Drive by clicking here.",
+                "_link": "https://wnedisk.wison.com/"
             }
         ]
     },
