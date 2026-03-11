@@ -8,12 +8,27 @@
         "_layout": "left",
         "title": "SecureLink",
         "displayTitle": "SecureLink",
-        "body": "SecureLink connection times to the Wison intranet:<br><br><b> Monday to Saturday:</b><br>8:00 AM to 8:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 3:00 AM (Beijing time)<br><br><b>Sunday:</b><br>8:00 AM to 6:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 1:00 AM (Beijing time)<br><br>Note: The web version of the corporate email is not subject to the above restrictions.",
+        "body": "SecureLink connection times to the Wison intranet:<br><br><b> Monday to Saturday:</b><br>8:00 AM to 8:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 3:00 AM (Beijing time)<br><br><b>Sunday:</b><br>8:00 AM to 6:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 1:00 AM (Beijing time)<br><br>The Enterprise Webmail is not subject to the above restrictions.",
         "instruction": "",
         "_pageLevelProgress": {
             "_isEnabled": true,
             "_isCompletionIndicatorEnabled": false
         }
+    },
+    {
+        "_id": "c-102",
+        "_parentId": "b-100",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "right",
+        "title": "c-102",
+        "displayTitle": "",
+        "body": "When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>",
+        "instruction": "",
+        "_isScrollable": false,
+        "_defaultScrollPercent": 0,
+        "_isOptional": true
     },
     {
         "_id": "c-105",
