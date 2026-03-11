@@ -24,7 +24,7 @@
         "_layout": "right",
         "title": "c-102",
         "displayTitle": "",
-        "body": "When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>",
+        "body": "<br><br><br>When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
         "instruction": "",
         "_isScrollable": false,
         "_defaultScrollPercent": 0,
