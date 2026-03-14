@@ -8,7 +8,7 @@
         "_layout": "left",
         "title": "SecureLink",
         "displayTitle": "SecureLink",
-        "body": "SecureLink connection times to the Wison intranet:<br><br><b> Monday to Saturday:</b><br>8:00 AM to 8:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 3:00 AM (Beijing time)<br><br><b>Sunday:</b><br>8:00 AM to 6:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 1:00 AM (Beijing time)<br><br>The Enterprise Webmail is not subject to the above restrictions.",
+        "body": "SecureLink connection times to the Wison intranet:<br><br><b> Monday to Saturday:</b><br>8:00 AM to 8:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 3:00 AM (Beijing time)<br><br><b>Sunday:</b><br>8:00 AM to 6:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 1:00 AM (Beijing time)<br><br>The <a href='https://webmail.wison.com/' target='_blank'>Enterprise Webmail</a> is not subject to the above restrictions.",
         "instruction": "",
         "_pageLevelProgress": {
             "_isEnabled": true,
@@ -24,7 +24,7 @@
         "_layout": "right",
         "title": "c-102",
         "displayTitle": "",
-        "body": "<br><br><br>When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.<br><br>Download<a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.",
+        "body": "<br><br><br>Download <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
         "instruction": "",
         "_isScrollable": false,
         "_defaultScrollPercent": 0,
@@ -50,6 +50,7 @@
             "_url": "",
             "_target": ""
         },
+        "_isEnabled": false,
         "_isScrollable": false,
         "_defaultScrollPercent": 0,
         "_isOptional": true
