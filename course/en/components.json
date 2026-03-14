@@ -24,32 +24,8 @@
         "_layout": "right",
         "title": "c-102",
         "displayTitle": "",
-        "body": "<br><br>Download AA <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
+        "body": "<br><br>Download <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
         "instruction": "",
-        "_isScrollable": false,
-        "_defaultScrollPercent": 0,
-        "_isOptional": true
-    },
-    {
-        "_id": "c-105",
-        "_parentId": "b-100",
-        "_type": "component",
-        "_component": "graphic",
-        "_classes": "",
-        "_layout": "left",
-        "title": "c-105",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_graphic": {
-            "alt": "",
-            "longdescription": "",
-            "large": "course/en/images/single-width.png",
-            "small": "course/en/images/single-width.png",
-            "attribution": "",
-            "_url": "",
-            "_target": ""
-        },
         "_isScrollable": false,
         "_defaultScrollPercent": 0,
         "_isOptional": true
