@@ -1,5 +1,5 @@
 [
-    {
+  {
     "_id": "c-100",
     "_parentId": "b-105",
     "_type": "component",
@@ -8,7 +8,7 @@
     "_layout": "full",
     "title": "Introduction",
     "displayTitle": "",
-    "body": "The simple <b>Text</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we've used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn't always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
+    "body": "The simple <b>Test</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we've used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn't always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true,
