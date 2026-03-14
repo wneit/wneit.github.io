@@ -1,22 +1,56 @@
 [
   {
-    "_id": "c-110",
-    "_parentId": "b-105",
+    "_id": "c-100",
+    "_parentId": "b-130",
     "_type": "component",
-    "_component": "text",
+    "_component": "Account",
     "_classes": "",
     "_layout": "full",
     "title": "Account",
     "displayTitle": "Account",
-    "body": "The simple <b>Text</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we’ve used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn’t always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
-    "instruction": "",
+    "body": "Wison's business systems primarily use three types of accounts.<br><br>These components can be either single or spanned. If spanned they can also contain a graphic.",
+    "instruction": "Please log in according to the requirements of the business system.",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "AD Accounts",
+        "body": "omain controller accounts, mainly used for logging into computers.<br><br>They can also be used to log into <a href='https://wnedisk.wison.com/' target='_blank'>WNE Cloud Drive</a>, Office VDI(Virtual Desktop Infrastructure), Design VDI, FortiClientVPN.",
+        "_imageAlignment": "full",
+        "_classes": "align-image-left",
+        "_graphic": {
+          "src": "course/en/images/single-width.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "OA Accounts",
+        "body": "Office platform accounts, mainly used for logging into the office platform.<br><br>They can also be used to log into <a href='https://webmail.wison.com/' target='_blank'>Enterprise Webmail</a>, document control systems, construction systems, financial systems, payment systems, etc.",
+        "_imageAlignment": "full",
+        "_classes": "align-image-right",
+        "_graphic": {
+          "src": "course/en/images/single-width.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Other Accounts",
+        "body": "Such as <a href='https://office.com/' target='_blank'>Teams</a>, SecureLink, etc.",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/accordion-full.png",
+          "alt": ""
+        }
+      }
+    ],
     "_pageLevelProgress": {
       "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
+      "_isCompletionIndicatorEnabled": true
     }
   },
   {
-    "_id": "c-100",
+    "_id": "c-105",
     "_parentId": "b-100",
     "_type": "component",
     "_component": "text",
@@ -32,7 +66,7 @@
     }
   },
   {
-    "_id": "c-101",
+    "_id": "c-106",
     "_parentId": "b-100",
     "_type": "component",
     "_component": "text",
@@ -45,6 +79,22 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_isOptional": true
+  },
+  {
+    "_id": "c-110",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Text",
+    "displayTitle": "Text",
+    "body": "The simple <b>Text</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we’ve used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn’t always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
     "_id": "c-115",
@@ -285,56 +335,6 @@
         "fullscreen"
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "_id": "c-140",
-    "_parentId": "b-130",
-    "_type": "component",
-    "_component": "accordion",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Accordion",
-    "displayTitle": "Accordion",
-    "body": "You can use the <b>Accordion</b> component to present learners with a series of headings which, once selected, expand to reveal associated text. Select each of the headings below to find out more about how accordions can be used.<br><br>These components can be either single or spanned. If spanned they can also contain a graphic.",
-    "instruction": "Select the headings to find out more.",
-    "_shouldCollapseItems": true,
-    "_shouldExpandFirstItem": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Lists",
-        "body": "This is display text 1 and we’re using it to discuss lists.<br><br>If you need to present a list that can stand alone as a piece of content, but which can also be explored in more detail, accordions are a great choice.",
-        "_imageAlignment": "full",
-        "_classes": "align-image-left",
-        "_graphic": {
-          "src": "course/en/images/single-width.png",
-          "alt": ""
-        }
-      },
-      {
-        "title": "Steps in a process",
-        "body": "This is display text 2 and now we’re discussing how accordions can be great at presenting a process.<br><br>The headings can be used to present the high-level stages in the process, which once selected, provide a more extensive explanation of what happens at that specific point.",
-        "_imageAlignment": "full",
-        "_classes": "align-image-right",
-        "_graphic": {
-          "src": "course/en/images/single-width.png",
-          "alt": ""
-        }
-      },
-      {
-        "title": "Recaps",
-        "body": "This is display text 3 and we’re now talking about using accordions to provide the learner with a summary.<br><br>Each accordion item corresponds to a key piece of learning presented on the page. When this item is selected a short summary of the learning point is provided.",
-        "_imageAlignment": "full",
-        "_graphic": {
-          "src": "course/en/images/accordion-full.png",
-          "alt": ""
-        }
-      }
-    ],
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
