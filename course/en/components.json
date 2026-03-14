@@ -1,5 +1,21 @@
 [
   {
+    "_id": "c-110",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Account",
+    "displayTitle": "Account",
+    "body": "The simple <b>Text</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we’ve used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn’t always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
     "_id": "c-100",
     "_parentId": "b-100",
     "_type": "component",
@@ -24,27 +40,11 @@
     "_layout": "right",
     "title": "c-102",
     "displayTitle": "",
-    "body": "<br><br>Download <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit email address and MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
+    "body": "<br><br>Download <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit <b>email address and MAC address</b> of your wireless network card.<br>Prerequisite: The laptop must be <b>provided by WNE</b>.",
     "instruction": "",
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_isOptional": true
-  },
-  {
-    "_id": "c-110",
-    "_parentId": "b-105",
-    "_type": "component",
-    "_component": "text",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Text",
-    "displayTitle": "Text",
-    "body": "The simple <b>Text</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we’ve used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn’t always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
-    "instruction": "",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    }
   },
   {
     "_id": "c-115",
