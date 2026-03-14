@@ -6,46 +6,6 @@
     "_component": "text",
     "_classes": "",
     "_layout": "left",
-    "title": "Introduction",
-    "displayTitle": "",
-    "body": "Adapt allows you to combine <b>Text</b> and <b>Graphic</b> components on the scrolling page to create rich and varied learning experiences. In addition, a wide range of interactive components are also available to help encourage deeper engagement with the material.<br><br><b>These presentation components can be structured</b> in any way to help you create learning experiences that meet the needs of your learners.<br><br>In addition, if your course is being launched from an <abbr title='Learning Management System'>LMS</abbr> or <abbr title='Learning Record Store'>LRS</abbr>, you can personalise the course content by having the learner's name dynamically displayed in the body, instruction or feedback text.",
-    "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what presentation components are available as part of the core bundle.",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    }
-  },
-  {
-    "_id": "c-105",
-    "_parentId": "b-100",
-    "_type": "component",
-    "_component": "graphic",
-    "_classes": "",
-    "_layout": "right",
-    "title": "c-105",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/images/single-width.png",
-      "small": "course/en/images/single-width.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0,
-    "_isOptional": true
-  },
-  {
-    "_id": "c-106",
-    "_parentId": "b-100",
-    "_type": "component",
-    "_component": "text",
-    "_classes": "",
-    "_layout": "left",
     "title": "SecureLink",
     "displayTitle": "SecureLink",
     "body": "SecureLink connection times to the Wison intranet:<br><br><b> Monday to Saturday:</b><br>8:00 AM to 8:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 3:00 AM (Beijing time)<br><br><b>Sunday:</b><br>8:00 AM to 6:00 PM (Congo (Brazzaville) time)<br>3:00 PM to 1:00 AM (Beijing time)<br><br>The <a href='https://webmail.wison.com/' target='_blank'>Enterprise Webmail</a> is not subject to the above restrictions.",
@@ -56,7 +16,7 @@
     }
   },
   {
-    "_id": "c-107",
+    "_id": "c-101",
     "_parentId": "b-100",
     "_type": "component",
     "_component": "text",
@@ -64,7 +24,7 @@
     "_layout": "right",
     "title": "c-102",
     "displayTitle": "",
-    "body": "<br><br>Download <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit your email address and the MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
+    "body": "<br><br>Download <a href='https://www.wangsu.com/app/securelink/' target='_blank'>SecureLink</a><br>For mobile devices, please visit Google Play or the App Store to download SecureLink (currently not supported on the US Apple Store).<br><br>If certain applications or systems on the Wison intranet cannot be opened, please contact the administrator to add them to the SecureLink acceleration list.<br><br>When applying for SecureLink, please submit email address and MAC address of your wireless network card.<br>Prerequisite: The laptop must be provided by WNE.",
     "instruction": "",
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
@@ -76,7 +36,7 @@
     "_type": "component",
     "_component": "text",
     "_classes": "",
-    "_layout": "left",
+    "_layout": "full",
     "title": "Text",
     "displayTitle": "Text",
     "body": "The simple <b>Text</b> component can often be the best choice for imparting information, particularly when used in conjunction with complementary graphics. In this example we’ve used the <b>Blank</b> component to the right to create a window through to the block background.<br><br>Remember, content doesn’t always warrant an interaction so less can often be really be more. Instead, look to intersperse more interactive components with text and graphics where they add the maximum value.<br><br>Component can either be single or spanned.",
